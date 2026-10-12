@@ -1,4 +1,4 @@
-# Mika Portfolio 3D — React + React Three Fiber
+# Interaktif Portfolio 3D — React + React Three Fiber
 
 Starter project untuk portfolio 3D dengan lima ruangan: Profile, Projects, Skills, Experience, dan Contact.
 
